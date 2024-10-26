@@ -8,18 +8,40 @@
 <h2>Composição do Pacote</h2>
 
 <ul>
-	<li>Bootloader:
+	<li><i>BOOTLOADER:</i>
 		<ul><li>Hekate: Bootloader gráfico personalizado para Nintendo Switch.</li></ul>
 	</li>
-	<li>Custom Firmware:
+	<li><i>CUSTOM FIRMWARE:</i>
 		<ul><li>Atmosphere: Firmware personalizado para Nintendo Switch.</li></ul>
 	</li>
-	<li>Compatibilidade:
+	<li><i>COMPATIBILIDADE:</i>
 		<ul><li>SigPatches: Os "Signature Patches" são criados para serem usados em conjunto com o Atmosphere para carregar Homebrews a partir do menu inicial.</li></ul>
 	</li>
-	<li>Configurações:
+	<li><i>CONFIGURAÇÔES:</i>
 		<ul><li>IniFiles: Arquivos de inicialização MultiBoot e gerenciamento de recursos.</li></ul>
 	</li>
+</ul>
+
+<hr>
+
+<h2>Homebrews</h2>
+
+<ul>
+	<li></li>
+</ul>
+
+<hr>
+
+<h2>Extras</h2>
+
+<ul>
+	<li><i>THEMES</i>
+	<ul>
+		<li><a href="https://themezer.net/packs/Ephemeral-Dark-Atmosphere-835">Ephemeral Dark Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
+		<li><a href="https://themezer.net/packs/Ephemeral-Light-Atmosphere-836">Ephemeral Light Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
+		<li><a href="https://themezer.net/packs/Yoshis-Island-SNES-837">Yoshis Island [SNES]</a> ("All Apps" & "Home Menu" screens)</li>
+		<li><a href="https://themezer.net/packs/Yoshis-New-Island-3DS-838">Yoshis New Island [3DS]</a> ("All Apps" & "Home Menu" screens)</li>
+	</ul>
 </ul>
 
 <hr>
