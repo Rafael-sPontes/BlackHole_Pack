@@ -1,6 +1,8 @@
 # BlackHole Pack
  Pacote de Desbloqueio para Nintendo Switch
 
+<link rel="stylesheet" href="css/style.css">
+
 <img src="images/bootlogo_pack.png" alt="BlackHole Pack Bootlogo">
 
 <hr>
@@ -51,6 +53,15 @@
 <h2>Extras</h2>
 
 <ul>
+	<li><i>CUSTOMIZAÇÃO</i></li>
+	<ul>
+		<li>Hekate: Ícones tematizados <i>"BlackHole"</i> com cores diferentes para cada boot</li>
+		<ul>
+			<li>Ícone <i id="green">"BlackHole" STOCK SYSNAND</i> na cor <i id="green">VERDE</i> para inicialização do modo Original</li>
+			<li>Ícone <i id="blue">"BlackHole" ATMOSPHERE EMUNAND</i> na cor <i id="blue">VERDE</i> para inicialização do modo Desbloqueado na EmuNand</li>
+			<li>Ícone <i id="red">"BlackHole" ATMOSPHERE EMUNAND</i> na cor <i id="red">VERDE</i> para inicialização do modo Desbloqueado na EmuNand</li>
+		</ul>
+	</ul>
 	<li><i>TEMAS</i>
 	<ul>
 		<li><a href="https://themezer.net/packs/Ephemeral-Dark-Atmosphere-835">Ephemeral Dark Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
