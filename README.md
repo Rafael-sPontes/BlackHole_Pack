@@ -30,18 +30,20 @@
 <h2>Homebrews</h2>
 
 <ul>
-	<li>Daybreak: ; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
-	<li>Reboot to Payload <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
-	<li>USB File Transfer <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
-	<li>DB Installer <a href="https://github.com/rashevskyv">rashevskyv</a></li>
-	<li>JKSV <a href="https://github.com/J-D-K">J-D-K</a></li>
-	<li>Linkalho <a href="https://github.com/rdmrocha">rrocha</a></li>
-	<li>NXThemes Installer <a href="https://github.com/exelix11">exelix11</a></li>
-	<li>Themezer-NX <a href="https://github.com/suchmememanyskill">suchmememanyskill</a></li>
-	<li>duckstation <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/stenzek">stenzek</a>)</li>
-	<li>ppsspp <a href="https://github.com/m4xw">m4xw</a> (Forked from <a href="https://github.com/hrydgard">hrydgard</a>)</li>
-	<li>melonDS <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
-	- Forked from <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
+	<li>Daybreak:  Atualizador de Firmware para Sistema Switch Customizado; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
+	<li>Reboot to Payload: Inicializador de payload (Erista Only); Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
+	<li>USB File Transfer: Inicializador para transferência de arquivos via USB; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
+	<li>DB Installer: Gerenciador de arquivos nativo; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
+	Autor: <a href="https://github.com/rashevskyv">rashevskyv</a></li>
+	<li>JKSV: Gerenciador nativo de saves (Info, Copy, Move, Del, Dump, Export, Import, Upload, Download); 
+	Autor: <a href="https://github.com/J-D-K">J-D-K</a></li>
+	<li>Linkalho: Gerenciador de contas vinculadas para Sistema Switch Customizado (Vincular, Desvincular, Backup, Restore); Autor: <a href="https://github.com/rdmrocha">rrocha</a></li>
+	<li>NXThemes Installer: Gerenciador de Temas Customizados (Insatalar, Desinstalar); Autor: <a href="https://github.com/exelix11">exelix11</a></li>
+	<li>Themezer-NX: Loja Digital de Temas Customizados; Autor: <a href="https://github.com/suchmememanyskill">suchmememanyskill</a></li>
+	<li>duckstation: Emulador nativo de PlayStation 1 para Sistema Switch Customizado; Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/stenzek">stenzek</a>)</li>
+	<li>ppsspp: Emulador nativo de PlayStation Portable para Sistema Switch Customizado; Autor: <a href="https://github.com/m4xw">m4xw</a> (Forked from <a href="https://github.com/hrydgard">hrydgard</a>)</li>
+	<li>melonDS: Emulador nativo de Nintendo DS para Sistema Switch Customizado; Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
+	- Forked from: ; Autor: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
 </ul>
 
 <hr>
