@@ -125,10 +125,3 @@
 </ul>
 
 <hr>
-	<li><a href="https://github.com/CTCaer/hekate">Hekate e Nyx</a> por CTCaer<br></li>
-	<li><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphere e Fusee</a> por Atmosphere-NX<br></li>
-	<li><a href="https://sigmapatches.su/">SigPatches</a> por sigmapatches.su<br></li>
-	<li><a href="https://rentry.co/EristaEmu">IniFiles</a> por rentry.co<br></li>
-</ul>
-
-<hr>
