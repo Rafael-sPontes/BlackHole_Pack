@@ -1,6 +1,6 @@
 # BlackHole Pack
  Pacote de Desbloqueio para Nintendo Switch
- 
+
 <img src="images/bootlogo_pack.png" alt="BlackHole Pack Bootlogo">
 
 <hr>
@@ -108,6 +108,7 @@
 <ul>
 	<li>O pacote "BlackHole" é composto apenas por versões estáveis de softwares, configuração e recursos. 
 	Seu propósito é ser seguro, estável, simples e útil.</li>
+	<li>O pacote "BlackHole" é baseado em ModChip. Suas versões atuais não possuem recursos "TegraGUI" ou "Auto-RCM"</li>
 	<li>A execução de emuladores com o "Applet Mode" ocasionará "Crashes" no Sistema, sendo necessário reiniciá-lo. 
 	A Reinicialização/Desligamento inesperado do sistema (de forma frequente) pode causar lentidão ou corrompimento do sistema. 
 	Caso ocorra falha na inicialização (sem perspectiva de solução) considere reinstalar o pacote "BlackHole" de forma limpa.
