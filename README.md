@@ -1,7 +1,7 @@
 # BlackHole Pack
  Pacote de Desbloqueio para Nintendo Switch
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style/style.css">
 
 <img src="images/bootlogo_pack.png" alt="BlackHole Pack Bootlogo">
 
