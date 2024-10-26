@@ -55,7 +55,7 @@
 <h2>Customização</h2>
 
 <ul>
-	<li>Hekate: Ícones tematizados <i>"BlackHole"</i> com cores diferentes para cada boot
+	<li><i>HEKATE:</i> Ícones tematizados <i>"BlackHole"</i> com cores diferentes para cada boot
 		<ul>
 			<li>Ícone <i>"BlackHole STOCK SYSNAND"</i> e Tela de Boot <i>"BlackHole Pack"</i> na cor <i>VERDE</i> para inicialização do modo Original</li>
 			<li>Ícone <i>"BlackHole ATMOSPHERE EMUNAND"</i> e Tela de Boot <i>"BlackHole Pack"</i> 
@@ -64,7 +64,7 @@
 			na cor <i>VERMELHO</i> para inicialização do modo Desbloqueado na SysNand</li>
 		</ul>
 	</li>
-	<li>Atmosphere
+	<li><i>ATMOSPHERE</i>
 		<ul>
 			<li>Exosphere: Máscara de informação nula. (Contramedida de Banimento)</li>
 			<li>Hosts: Bloqueador de Servers. (Contramedida de Servidor)</li>
