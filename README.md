@@ -43,7 +43,7 @@
 	<li>duckstation: Emulador nativo de PlayStation 1 para Sistema Switch Customizado; Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/stenzek">stenzek</a>)</li>
 	<li>ppsspp: Emulador nativo de PlayStation Portable para Sistema Switch Customizado; Autor: <a href="https://github.com/m4xw">m4xw</a> (Forked from <a href="https://github.com/hrydgard">hrydgard</a>)</li>
 	<li>melonDS: Emulador nativo de Nintendo DS para Sistema Switch Customizado; Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
-	- Forked from: ; Autor: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
+	- Forked from: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
 </ul>
 
 <hr>
