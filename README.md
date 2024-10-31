@@ -39,6 +39,8 @@
 	Autor: <a href="https://github.com/J-D-K">J-D-K</a></li>
 	<li>Linkalho: Gerenciador de contas vinculadas para Sistema Switch Customizado (Vincular, Desvincular, Backup, Restore); 
 	Autor: <a href="https://github.com/rdmrocha">rrocha</a></li>
+	<li>Mission Control: Compatibilidade aumentada para conexão de controles wireless com o Nintendo Switch via Bluetooth 
+	(Não são necessários Dongles ou Hardware externo); Autor: <a href="https://github.com/ndeadly">ndeadly</a></li>
 	<li>NXThemes Installer: Gerenciador de Temas Customizados (Insatalar, Desinstalar); Autor: <a href="https://github.com/exelix11">exelix11</a></li>
 	<li>Themezer-NX: Loja Digital de Temas Customizados; Autor: <a href="https://github.com/suchmememanyskill">suchmememanyskill</a></li>
 	<li>duckstation: Emulador nativo de PlayStation 1 para Sistema Switch Customizado; 
@@ -124,5 +126,3 @@
 	<li><a href="https://sigmapatches.su/">SigPatches</a> por sigmapatches.su<br></li>
 	<li><a href="https://rentry.co/EristaEmu">IniFiles</a> por rentry.co<br></li>
 </ul>
-
-<hr>
