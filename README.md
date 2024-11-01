@@ -30,26 +30,26 @@
 <h2>Homebrews</h2>
 
 <ul>
-	<li>Daybreak:  Atualizador de Firmware para Sistema Switch Customizado; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
-	<li>Reboot to Payload: Inicializador de payload (Erista Only); Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
-	<li>USB File Transfer: Inicializador para transferência de arquivos via USB; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a></li>
+	<li>Daybreak:  Atualizador de Firmware para Sistema Switch Customizado; Autor: <a href="https://github.com/Atmosphere-NX" target="_blank">Atmosphere-NX</a></li>
+	<li>Reboot to Payload: Inicializador de payload (Erista Only); Autor: <a href="https://github.com/Atmosphere-NX" target="_blank">Atmosphere-NX</a></li>
+	<li>USB File Transfer: Inicializador para transferência de arquivos via USB; Autor: <a href="https://github.com/Atmosphere-NX" target="_blank">Atmosphere-NX</a></li>
 	<li>DB Installer: Gerenciador de arquivos nativo; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
-	Autor: <a href="https://github.com/rashevskyv">rashevskyv</a></li>
+	Autor: <a href="https://github.com/rashevskyv" target="_blank">rashevskyv</a></li>
 	<li>JKSV: Gerenciador nativo de saves (Info, Copy, Move, Del, Dump, Export, Import, Upload, Download); 
-	Autor: <a href="https://github.com/J-D-K">J-D-K</a></li>
+	Autor: <a href="https://github.com/J-D-K" target="_blank">J-D-K</a></li>
 	<li>Linkalho: Gerenciador de contas vinculadas para Sistema Switch Customizado (Vincular, Desvincular, Backup, Restore); 
-	Autor: <a href="https://github.com/rdmrocha">rrocha</a></li>
+	Autor: <a href="https://github.com/rdmrocha" target="_blank">rrocha</a></li>
 	<li>Mission Control: Compatibilidade aumentada para conexão de controles wireless com o Nintendo Switch via Bluetooth 
-	(Não são necessários Dongles ou Hardware externo); Autor: <a href="https://github.com/ndeadly">ndeadly</a></li>
-	<li>NXThemes Installer: Gerenciador de Temas Customizados (Insatalar, Desinstalar); Autor: <a href="https://github.com/exelix11">exelix11</a></li>
-	<li>Themezer-NX: Loja Digital de Temas Customizados; Autor: <a href="https://github.com/suchmememanyskill">suchmememanyskill</a></li>
+	(Não são necessários Dongles ou Hardware externo); Autor: <a href="https://github.com/ndeadly" target="_blank">ndeadly</a></li>
+	<li>NXThemes Installer: Gerenciador de Temas Customizados (Insatalar, Desinstalar); Autor: <a href="https://github.com/exelix11" target="_blank">exelix11</a></li>
+	<li>Themezer-NX: Loja Digital de Temas Customizados; Autor: <a href="https://github.com/suchmememanyskill" target="_blank">suchmememanyskill</a></li>
 	<li>duckstation: Emulador nativo de PlayStation 1 para Sistema Switch Customizado; 
-	Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/stenzek">stenzek</a>)</li>
+	Autor: <a href="https://github.com/RSDuck" target="_blank">RSDuck</a> (Forked from <a href="https://github.com/stenzek" target="_blank">stenzek</a>)</li>
 	<li>PPSSPP: Emulador nativo de PlayStation Portable para Sistema Switch Customizado; 
-	Autor: <a href="https://github.com/m4xw">m4xw</a> (Forked from <a href="https://github.com/hrydgard">hrydgard</a>)</li>
+	Autor: <a href="https://github.com/m4xw" target="_blank">m4xw</a> (Forked from <a href="https://github.com/hrydgard" target="_blank">hrydgard</a>)</li>
 	<li>melonDS: Emulador nativo de Nintendo DS para Sistema Switch Customizado; 
-	Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
-	- Forked from: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
+	Autor: <a href="https://github.com/RSDuck" target="_blank">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon" target="_blank">Hydr8gon</a> 
+	- Forked from: <a href="https://github.com/melonDS-emu" target="_blank">melonDS-emu</a>)</li>
 </ul>
 
 <hr>
@@ -75,10 +75,10 @@
 	</li>
 	<li><i>TEMAS</i>
 		<ul>
-			<li><a href="https://themezer.net/packs/Ephemeral-Dark-Atmosphere-835">Ephemeral Dark Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
-			<li><a href="https://themezer.net/packs/Ephemeral-Light-Atmosphere-836">Ephemeral Light Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
-			<li><a href="https://themezer.net/packs/Yoshis-Island-SNES-837">Yoshis Island [SNES]</a> ("All Apps" & "Home Menu" screens)</li>
-			<li><a href="https://themezer.net/packs/Yoshis-New-Island-3DS-838">Yoshis New Island [3DS]</a> ("All Apps" & "Home Menu" screens)</li>
+			<li><a href="https://themezer.net/packs/Ephemeral-Dark-Atmosphere-835" target="_blank">Ephemeral Dark Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
+			<li><a href="https://themezer.net/packs/Ephemeral-Light-Atmosphere-836" target="_blank">Ephemeral Light Atmosphere</a> ("All Apps" & "Home Menu" screens)</li>
+			<li><a href="https://themezer.net/packs/Yoshis-Island-SNES-837" target="_blank">Yoshis Island [SNES]</a> ("All Apps" & "Home Menu" screens)</li>
+			<li><a href="https://themezer.net/packs/Yoshis-New-Island-3DS-838" target="_blank">Yoshis New Island [3DS]</a> ("All Apps" & "Home Menu" screens)</li>
 		</ul>
 	</li>
 </ul>
@@ -121,8 +121,8 @@
 
 <h2>Agradecimentos</h2>
 <ul>
-	<li><a href="https://github.com/CTCaer/hekate">Hekate e Nyx</a> por CTCaer<br></li>
-	<li><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphere e Fusee</a> por Atmosphere-NX<br></li>
-	<li><a href="https://sigmapatches.su/">SigPatches</a> por sigmapatches.su<br></li>
-	<li><a href="https://rentry.co/EristaEmu">IniFiles</a> por rentry.co<br></li>
+	<li><a href="https://github.com/CTCaer/hekate" target="_blank">Hekate e Nyx</a> por CTCaer<br></li>
+	<li><a href="https://github.com/Atmosphere-NX/Atmosphere" target="_blank">Atmosphere e Fusee</a> por Atmosphere-NX<br></li>
+	<li><a href="https://sigmapatches.su/" target="_blank">SigPatches</a> por sigmapatches.su<br></li>
+	<li><a href="https://rentry.co/EristaEmu" target="_blank">IniFiles</a> por rentry.co<br></li>
 </ul>
