@@ -89,17 +89,21 @@
 <ul>
 	<li><i>ATMOSPHERE SYSNAND:</i> Modo Desbloqueado na SysNand
 		<ul>
-			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!ELARCHIVOPELIGROSO.SOS!!!!!"</i> na raiz do microSD após instalação do pacote; </li>
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!ATMOSPHERE_SYSNAND_ADD-ON!!!!!"</i> 
+			na raiz do microSD após instalação do pacote; </li>
 			<li>A inicialização do "ATMOSPHERE SYSNAND" fica separada. Está localizada na opção "More Configs" a partir do Hekate;</li>
 			<li>A função Auto-Boot é DESABILITADA para "ATMOSPHERE SYSNAND" (O usuário deve ser consciente ao selecionar esse modo);</li>
 		</ul>
 	</li>
 	<li><i>EMULADORES:</i> duckstation, PPSSPP, melonDS
 		<ul>
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!EMULATORS_ADD-ON!!!!!"</i> 
+			na raiz do microSD após instalação do pacote; </li>
 			<li>Os Emuladores estão classificados como Homebrews. Estão localizados na função Álbum do Switch;</li>
 			<li>Os Emuladores executam softwares de outros sistemas, por isso consomem recursos consideráveis de Hardware.</li>
 			<li>Para executar os emuladores sem erros é necessário inicia-los sem restrições de desempenho, para isso inicie o 
 			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
+			<li>O pacote "BlackHole" não contém dependências, BIOS, Jogos ou Softwares relacionados a algum console ou marca.</li>
 		</ul>
 	</li>
 </ul>
