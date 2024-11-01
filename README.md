@@ -103,7 +103,7 @@
 			<li>Os Emuladores executam softwares de outros sistemas, por isso consomem recursos consideráveis de Hardware.</li>
 			<li>Para executar os emuladores sem erros é necessário inicia-los sem restrições de desempenho, para isso inicie o 
 			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
-			<li>O pacote "BlackHole" não contém dependências, BIOS, Jogos ou Softwares relacionados a algum console ou marca.</li>
+			<li>O pacote "BlackHole" não contém dependências, BIOS, Jogos ou Softwares relacionados a algum console ou marca;</li>
 		</ul>
 	</li>
 </ul>
