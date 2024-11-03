@@ -1,5 +1,5 @@
 # BlackHole Pack
- Pacote de Desbloqueio para Nintendo Switch
+ Pacote de Custom Firmware para Nintendo Switch
 
 <img src="images/bootlogo_pack.png" alt="BlackHole Pack Bootlogo">
 
