@@ -91,7 +91,7 @@
 <ul>
 	<li><i>ATMOSPHERE SYSNAND:</i> Modo Desbloqueado na SysNand
 		<ul>
-			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!ATMOSPHERE_SYSNAND_ADD-ON!!!!!"</i> 
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"Atmosphere_Sysnand_Add-On.zip"</i> 
 			na raiz do microSD após instalação do pacote; </li>
 			<li>A inicialização do "ATMOSPHERE SYSNAND" fica separada. Está localizada na opção "More Configs" a partir do Hekate;</li>
 			<li>A função Auto-Boot é DESABILITADA para "ATMOSPHERE SYSNAND" (O usuário deve ser consciente ao selecionar esse modo);</li>
@@ -99,7 +99,7 @@
 	</li>
 	<li><i>EMULADORES:</i> duckstation, PPSSPP, melonDS
 		<ul>
-			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!EMULATORS_ADD-ON!!!!!"</i> 
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"Emulators_Add-On.zip"</i> 
 			na raiz do microSD após instalação do pacote; </li>
 			<li>Os Emuladores estão classificados como Homebrews. Estão localizados na função Álbum do Switch;</li>
 			<li>Os Emuladores executam softwares de outros sistemas, por isso consomem recursos consideráveis de Hardware.</li>
@@ -109,9 +109,9 @@
 			<li>Para mais informação leia a sessão: <i>Importante</i></li>
 		</ul>
 	</li>
-	<li><i>MOONLIGHT:</i>Client Server Streaming
+	<li><i>MOONLIGHT:</i> Client Server Streaming
 		<ul>
-			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!MOONLIGHT_ADD-ON!!!!!"</i> 
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"Moonlight_Add-On.zip"</i> 
 			na raiz do microSD após instalação do pacote; </li>
 			<li>O "Moonlight" está classificado como Homebrew. Está localizado na função Ábum do Switch;</li>
 			<li>Para executar o "Moonlight" sem erros é aconselhado inicia-lo sem restrições de desempenho. Para isso inicie o 
