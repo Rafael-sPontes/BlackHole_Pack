@@ -50,7 +50,8 @@
 	<li>melonDS: Emulador nativo de Nintendo DS para Sistema Switch Customizado; 
 	Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
 	- Forked from: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
-	<li>Moonlight: Cliente Screen/Game Streaming de PC com GPU NVIDIA/outras para Nintendo Switch Customizado; Autor: <a href="https://github.com/XITRIX">XITRIX</a></li>
+	<li>Moonlight: Cliente Screen/Game Streaming de PC com GPU NVIDIA/outras para Nintendo Switch Customizado; 
+	Autor: <a href="https://github.com/XITRIX">XITRIX</a></li>
 </ul>
 
 <hr>
