@@ -50,6 +50,7 @@
 	<li>melonDS: Emulador nativo de Nintendo DS para Sistema Switch Customizado; 
 	Autor: <a href="https://github.com/RSDuck">RSDuck</a> (Forked from <a href="https://github.com/Hydr8gon">Hydr8gon</a> 
 	- Forked from: <a href="https://github.com/melonDS-emu">melonDS-emu</a>)</li>
+	<li>Moonlight: Cliente Screen/Game Streaming de PC com GPU NVIDIA/outras para Nintendo Switch Customizado; Autor: <a href="https://github.com/XITRIX">XITRIX</a></li>
 </ul>
 
 <hr>
@@ -101,9 +102,32 @@
 			na raiz do microSD após instalação do pacote; </li>
 			<li>Os Emuladores estão classificados como Homebrews. Estão localizados na função Álbum do Switch;</li>
 			<li>Os Emuladores executam softwares de outros sistemas, por isso consomem recursos consideráveis de Hardware.</li>
-			<li>Para executar os emuladores sem erros é necessário inicia-los sem restrições de desempenho, para isso inicie o 
+			<li>Para executar os emuladores sem erros é necessário inicia-los sem restrições de desempenho. Para isso inicie o 
 			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
 			<li>O pacote "BlackHole" não contém dependências, BIOS, Jogos ou Softwares relacionados a algum console ou marca;</li>
+			<li>Para mais informação leia a sessão: <i>Importante</i></li>
+		</ul>
+	</li>
+	<li><i>MOONLIGHT:</i>Client Server Streaming
+		<ul>
+			<li>Por padrão DESABILITADO. Para ativar descompacte o arquivo <i>"!!!!!MOONLIGHT_ADD-ON!!!!!"</i> 
+			na raiz do microSD após instalação do pacote; </li>
+			<li>O "Moonlight" está classificado como Homebrew. Está localizado na função Ábum do Switch;</li>
+			<li>Para executar o "Moonlight" sem erros é aconselhado inicia-lo sem restrições de desempenho. Para isso inicie o 
+			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
+			<li>Para o funcionamento do "Moonlight", é necessário que o PC (Servidor) e o console (Cliente) estejam conectados na mesma rede;</li>
+			<li>O "Moonlight" já possui os inputs dos JoyCons pré-configurados (Utiliza os Drivers de um controle de Xbox 360);</li>
+			<li><i>Compatibilidade e Softwares: GPU (Placa Gráfica)</i>
+				<ul>
+					<li>Caso 1 - Streaming por GeForce Experience: É recomendado o uso desse Software para Streaming em GPUs NVIDIA 
+					(Não há garantia de que esse método irá funcionar para todas as GPUs dessa marca);</li>
+					<li>Caso 2 - Streaming por Sunshine: É recomendado o uso desse Software para Streaming em GPUs de outras marcas 
+					(Não há garantia de que esse método irá funcionar para todas as GPUs);</li>
+					<li>Caso 3 - É possível que a GPU utilizada não seja compatível com nenhum dos Softwares citados acima. 
+					Nesse caso, recomendo que pesquise por uma solução específica para o modelo de GPU em questão;</li>
+				</ul>
+			</li>
+			<li>Para mais informação leia a sessão: <i>Importante</i></li>
 		</ul>
 	</li>
 </ul>
@@ -119,6 +143,8 @@
 	A Reinicialização/Desligamento inesperado do sistema (de forma frequente) pode causar lentidão ou corrompimento do sistema. 
 	Caso ocorra falha na inicialização (sem perspectiva de solução) considere reinstalar o pacote "BlackHole" de forma limpa.
 	</li>
+	<li>Caso os inputs do "Moonlight" não forem reconhecidos, é recomendado a reinstalação dos Softwares e Dependências 
+	(Drivers) de ambos, PC (Servidor) e Console (Cliente);</li>
 </ul>
 
 <hr>
