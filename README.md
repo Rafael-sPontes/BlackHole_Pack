@@ -119,9 +119,12 @@
 			<li>O "Moonlight" já possui os inputs dos JoyCons pré-configurados (Utiliza os Drivers de um controle de Xbox 360);</li>
 			<li><i>Compatibilidade e Softwares: GPU (Placa Gráfica)</i>
 				<ul>
-					<li>Caso 1 - Streaming por GeForce Experience: É recomendado o uso desse Software para Streaming em GPUs NVIDIA 
+					<li>Caso 1 - Streaming por <a href="https://www.nvidia.com/pt-br/geforce/geforce-experience/">GeForce Experience</a>: 
+					É recomendado o uso desse Software para Streaming em GPUs NVIDIA 
 					(Não há garantia de que esse método irá funcionar para todas as GPUs dessa marca);</li>
-					<li>Caso 2 - Streaming por Sunshine: É recomendado o uso desse Software para Streaming em GPUs de outras marcas 
+					<li>Caso 2 - Streaming por <a href="https://github.com/LizardByte/Sunshine">Sunshine</a> 
+					(Autor: <a href="https://github.com/LizardByte">LizardByte</a>): 
+					É recomendado o uso desse Software para Streaming em GPUs de outras marcas 
 					(Não há garantia de que esse método irá funcionar para todas as GPUs);</li>
 					<li>Caso 3 - É possível que a GPU utilizada não seja compatível com nenhum dos Softwares citados acima. 
 					Nesse caso, recomendo que pesquise por uma solução específica para o modelo de GPU em questão;</li>
