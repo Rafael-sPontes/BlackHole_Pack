@@ -143,7 +143,7 @@
 	<li>O pacote "BlackHole" é composto apenas por versões estáveis de softwares, configuração e recursos. 
 	Seu propósito é ser seguro, estável, simples e útil;</li>
 	<li>O pacote "BlackHole" é baseado em ModChip. Suas versões atuais não possuem recursos "TegraGUI" ou "Auto-RCM";</li>
-	<li>A execução de emuladores com o "Applet Mode" ocasionará "Crashes" no Sistema, sendo necessário reiniciá-lo. 
+	<li>A execução de emuladores com o "Applet Mode" ativo ocasionará "Crashes" no Sistema, sendo necessário reiniciá-lo. 
 	A Reinicialização/Desligamento inesperado do sistema (de forma frequente) pode causar lentidão ou corrompimento do sistema. 
 	Caso ocorra falha na inicialização (sem perspectiva de solução) considere reinstalar o pacote "BlackHole" de forma limpa;</li>
 	<li>Caso os inputs do "Moonlight" não forem reconhecidos, é recomendado a reinstalação dos Softwares e Dependências 
@@ -157,5 +157,6 @@
 	<li><a href="https://github.com/CTCaer/hekate">Hekate e Nyx</a> por CTCaer;</li>
 	<li><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphere e Fusee</a> por Atmosphere-NX;</li>
 	<li><a href="https://sigmapatches.su/">SigPatches</a> por sigmapatches.su;</li>
+	<li><a href="https://github.com/impeeza/sys-patch">sys-patch</a> por impeeza;</li>
 	<li><a href="https://rentry.co/EristaEmu">IniFiles</a> por rentry.co;</li>
 </ul>
