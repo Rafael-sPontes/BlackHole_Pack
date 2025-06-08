@@ -106,7 +106,7 @@
 			<li>Os Emuladores estão classificados como Homebrews. Estão localizados na função Álbum do Switch;</li>
 			<li>Os Emuladores executam softwares de outros sistemas, por isso consomem recursos consideráveis de Hardware;</li>
 			<li>Para executar os emuladores sem erros é necessário inicia-los sem restrições de desempenho. Para isso inicie o 
-			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
+			"HBmenu / Sphaira" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
 			<li>O pacote "BlackHole" não contém dependências, BIOS, Jogos ou Softwares relacionados a algum console ou marca;</li>
 			<li>Para mais informação leia a sessão: <i>Importante</i>;</li>
 		</ul>
@@ -117,7 +117,7 @@
 			na raiz do microSD após instalação do pacote;</li>
 			<li>O "Moonlight" está classificado como Homebrew. Está localizado na função Ábum do Switch;</li>
 			<li>Para executar o "Moonlight" sem erros é aconselhado inicia-lo sem restrições de desempenho. Para isso inicie o 
-			"HBmenu" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
+			"HBmenu / Sphaira" desabilitando o "Applet Mode" (Inicie qualquer software da tela inicial segurando o botão <i>"R"</i>);</li>
 			<li>Para o funcionamento do "Moonlight", é necessário que o PC (Servidor) e o console (Cliente) estejam conectados na mesma rede;</li>
 			<li>O "Moonlight" já possui os inputs dos JoyCons pré-configurados (Utiliza os Drivers de um controle de Xbox 360);</li>
 			<li><i>Compatibilidade e Softwares: GPU (Placa Gráfica)</i>
