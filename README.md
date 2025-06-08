@@ -35,6 +35,8 @@
 	<li>USB File Transfer: Inicializador para transferência de arquivos via USB; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a>;</li>
 	<li>DB Installer: Gerenciador de arquivos nativo; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
 	Autor: <a href="https://github.com/rashevskyv">rashevskyv</a>;</li>
+	<li>Sphaira: Homebrew Menu; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
+	Autor: <a href="https://github.com/ITotalJustice">ITotalJustice</a>;</li>
 	<li>JKSV: Gerenciador nativo de saves (Info, Copy, Move, Del, Dump, Export, Import, Upload, Download); 
 	Autor: <a href="https://github.com/J-D-K">J-D-K</a>;</li>
 	<li>Linkalho: Gerenciador de contas vinculadas para Sistema Switch Customizado (Vincular, Desvincular, Backup, Restore); 
