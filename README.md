@@ -34,7 +34,7 @@
 	<li>Reboot to Payload: Inicializador de payload (Erista Only); Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a>;</li>
 	<li>USB File Transfer: Inicializador para transferência de arquivos via USB; Autor: <a href="https://github.com/Atmosphere-NX">Atmosphere-NX</a>;</li>
 	<li>DB Installer: Gerenciador de arquivos nativo; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
-	Autor: <a href="https://github.com/rashevskyv">rashevskyv</a>;</li>
+	Autor: <a href="https://github.com/rashevskyv">rashevskyv</a> (Patched by <a href="https://github.com/Morce3232">Morce3232</a>);</li>
 	<li>Sphaira: Homebrew Menu; Instalador [XCI, NSP, XCZ, NSZ] via [MTP, USB, FTP]; 
 	Autor: <a href="https://github.com/ITotalJustice">ITotalJustice</a>;</li>
 	<li>JKSV: Gerenciador nativo de saves (Info, Copy, Move, Del, Dump, Export, Import, Upload, Download); 
